@@ -43,6 +43,7 @@ A Região Fiscal onde emitido o CPF (definida pelo nono dígito) tem a seguinte 
 
 public class CPF extends Frame {
 
+	private static final long serialVersionUID = 1L;
 	private TextField txtCPF;
 	private TextField txtDV;
 	private Button btnCalcular;
